@@ -6,4 +6,4 @@ eureka:
       defaultZone: http://localhost:8088/eureka/
     register-with-eureka: true
     fetch-registry: true
-test: haha
+test: hahaha
